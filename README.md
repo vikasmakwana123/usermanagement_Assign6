@@ -1,12 +1,19 @@
-# React + Vite
+# 🧑‍💼 **User Management Dashboard (React)**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Overview
+A responsive and intuitive **User Management Dashboard** built using **ReactJS**, designed to manage user data with full CRUD functionality. The application features a sleek **dark theme** for a soothing visual experience.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [admin-dasboard-management.netlify.app](https://admin-dasboard-management.netlify.app)
+## ⚙️ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Fetch Users:** Retrieves user data from a **Fake API** using Axios.
+- **Add User:** Fill out the form and click **Add** to insert new user data.
+- **Edit User:** Modify existing user details using the **Edit** button.
+- **Delete User:** Remove users instantly with the **Delete** button.
+- **Dark Mode UI:** Eye-friendly black theme for better focus and aesthetics.
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend:** ReactJS  
+- **HTTP Client:** Axios  
+- **API:** Fake REST API (e.g., [JSONPlaceholder](https://jsonplaceholder.typicode.com/) )
